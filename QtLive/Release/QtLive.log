@@ -1,0 +1,3 @@
+﻿  QtLive.cpp
+QtLive.cpp(96): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+  QtLive.vcxproj -> E:\2019\anyRTC-RTMP-OpenSource\QtLive\..\out\Win32\Release\QtLive.exe

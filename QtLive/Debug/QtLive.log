@@ -1,0 +1,16 @@
+﻿  Moc'ing QtLive.h...
+  Moc'ing GraphicsView.h...
+  GraphicsView.cpp
+  main.cpp
+  QtLive.cpp
+  qrc_QtLive.cpp
+  moc_QtLive.cpp
+  moc_GraphicsView.cpp
+QtLive.cpp(101): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+    正在创建库 ..\out\Win32\Debug\QtLive.lib 和对象 ..\out\Win32\Debug\QtLive.exp
+  QtLive.vcxproj -> E:\2019\anyRTC-RTMP-OpenSource\QtLive\..\out\Win32\Debug\QtLive.exe
+  QtLive.vcxproj -> ..\out\Win32\Debug\QtLive.pdb (Full PDB)
+  E:\2019\anyRTC-RTMP-OpenSource\webrtc\modules\video_coding\codecs\h264\lib_static\x86\welsdec.dll
+  E:\2019\anyRTC-RTMP-OpenSource\webrtc\modules\video_coding\codecs\h264\lib_static\x86\welsenc.dll
+  E:\2019\anyRTC-RTMP-OpenSource\webrtc\modules\video_coding\codecs\h264\lib_static\x86\welsvp.dll
+  已复制         3 个文件。
